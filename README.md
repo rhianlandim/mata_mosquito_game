@@ -5,11 +5,12 @@
   <img src="https://user-images.githubusercontent.com/108150838/185659197-bec888c3-c647-42cd-9fbf-12ad1b5ec952.png" width="400" alt="logo" />
   <img src="https://user-images.githubusercontent.com/108150838/185659418-3a91ad5f-ee3c-4e45-92c9-71a9184fd812.png" width="400" alt="logo" />
 </p>
-<p align="center">Pesquisa de CEP utilizando a API Viacep.</p>
+<p align="center">Mate os mosquistos que apareceram ao decorrer do tempo, podendo selecionar o nível mais adequado para gameplay.</p>
  <hr />
 :hammer: Tecnologias utilizadas <br>
   - :hash: HTML <br/>
   - :hash:  CSS <br/>
+  - :hash: Bootstrap </br>
   - :hash: JavaScript <br/>
 
 ## AUTOR
